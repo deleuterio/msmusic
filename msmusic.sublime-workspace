@@ -1,0 +1,830 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"angular",
+				"angular-route"
+			],
+			[
+				"re",
+				"remaining"
+			],
+			[
+				"tags",
+				"tagsToInser"
+			],
+			[
+				"new",
+				"newtext"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"quest",
+				"questionObj"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"close",
+				"closedquestions"
+			],
+			[
+				"get",
+				"getSubjects"
+			],
+			[
+				"su",
+				"subjectsModel"
+			],
+			[
+				"err",
+				"errQ"
+			],
+			[
+				"subje",
+				"subjects"
+			],
+			[
+				"replac",
+				"replace"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"aux",
+				"auxAnswer"
+			],
+			[
+				"au",
+				"auxOptText"
+			],
+			[
+				"sub",
+				"substring"
+			],
+			[
+				"as",
+				"async"
+			],
+			[
+				"array",
+				"arrayMedia"
+			],
+			[
+				"contetn",
+				"content2"
+			],
+			[
+				"para",
+				"paragraphs"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"bod",
+				"bodyObject"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"O",
+				"ObjectID"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"func",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 3420,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/modules/index.js",
+			"settings":
+			{
+				"buffer_size": 218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/partials/home.html",
+			"settings":
+			{
+				"buffer_size": 1702,
+				"line_ending": "Unix",
+				"name": "home.html"
+			}
+		},
+		{
+			"file": "app/styles/styles.css",
+			"settings":
+			{
+				"buffer_size": 1404,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git d",
+		"selected_items":
+		[
+			[
+				"git d",
+				"Git: Diff"
+			],
+			[
+				"git diff",
+				"Git: Diff"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pre",
+				"Pretty JSON: Validate"
+			],
+			[
+				"prett",
+				"Pretty JSON: Validate"
+			],
+			[
+				"set ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setya",
+				"Set Syntax: YAML"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"set sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"yal",
+				"Set Syntax: YAML"
+			],
+			[
+				"json",
+				"Pretty JSON: Validate"
+			],
+			[
+				"git di",
+				"Git: Diff"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git stt",
+				"Git: Status"
+			],
+			[
+				"set bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git merge",
+				"Git: Merge"
+			],
+			[
+				"git che",
+				"Git: Checkout"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git ",
+				"Git: Diff"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git push c",
+				"Git: Push Current Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/doug/git/my-projects/msmusic",
+		"/home/doug/git/my-projects/msmusic/app",
+		"/home/doug/git/my-projects/msmusic/app/modules",
+		"/home/doug/git/my-projects/msmusic/app/partials",
+		"/home/doug/git/my-projects/msmusic/app/styles"
+	],
+	"file_history":
+	[
+		"/home/doug/git/msmusic/app/index.html",
+		"/home/doug/git/msmusic/app/assets/images/top-header.jpg",
+		"/home/doug/git/msmusic/app/routes.js",
+		"/home/doug/git/msmusic/app/main.js",
+		"/home/doug/git/msmusic/app/controllers/header/header.js",
+		"/home/doug/git/msmusic/app/partials/header/header.html",
+		"/home/doug/git/msmusicoterapia/css/styles.css",
+		"/home/doug/git/msmusic/app/bootstrap.js",
+		"/home/doug/git/msmusic/app/app.js",
+		"/home/doug/git/msmusic/app/components/version/version.js",
+		"/home/doug/git/msmusic/app/components/version/version_test.js",
+		"/home/doug/git/msmusic/app/components/version/version-directive_test.js",
+		"/home/doug/git/msmusic/app/components/version/version-directive.js",
+		"/home/doug/git/msmusic/app/components/version/interpolate-filter_test.js",
+		"/home/doug/git/msmusic/app/components/version/interpolate-filter.js",
+		"/home/doug/git/msmusic/app/directives/module.js",
+		"/home/doug/git/msmusic/app/directives/index.js",
+		"/home/doug/git/msmusic/app/filters/index.js",
+		"/home/doug/git/msmusic/app/services/index.js",
+		"/home/doug/git/msmusic/app/controllers/index.js",
+		"/home/doug/git/msmusic/app/controllers/module.js",
+		"/home/doug/git/msmusic/app/services/module.js",
+		"/home/doug/git/msmusic/app/filters/module.js",
+		"/home/doug/git/msmusic/app/controllers/view1.js",
+		"/home/doug/git/msmusic/app/controllers/view2.js",
+		"/home/doug/git/msmusic/app/index-async.html",
+		"/home/doug/git/msmusic/app/controllers/modeule.js",
+		"/home/doug/git/msmusic/app/view1/view1.js",
+		"/home/doug/git/msmusic/app/view2/view2.js",
+		"/home/doug/git/msmusic/app/view2/view2.html",
+		"/home/doug/git/msmusic/app/view1/view1.html",
+		"/home/doug/git/msmusic/bower.json",
+		"/home/doug/git/msmusic/README.md",
+		"/home/doug/git/msmusic/app/app.css",
+		"/home/doug/git/msmusic/.gitignore",
+		"/home/doug/git/msmusic/package.json",
+		"/home/doug/git/msmusic/karma.conf.js",
+		"/home/doug/git/msmusic/.bowerrc",
+		"/home/doug/git/placeholder-frontend/resources/js/app/views/loggedin.js",
+		"/home/doug/git/msmusicoterapia/bower_components/material-design-lite/material.min.js",
+		"/home/doug/git/portifolio/Tutorial/step01-initial-HTML-setup.html",
+		"/home/doug/Dropbox/lern/mongostaff/installupdated.sh",
+		"/home/doug/git/se-edu/public/espanhol.json",
+		"/home/doug/MEGA/seprovas/mongostaff/lernmongod.conf",
+		"/home/doug/Desktop/petshop.cs",
+		"/home/doug/Downloads/install.sh",
+		"/home/doug/.cache/.fr-HtzilD/Tp1 grafos(forms)/Tp1 grafos(forms)/grafo.cs",
+		"/home/doug/Desktop/Form1.cs",
+		"/home/doug/Dropbox/Filhos da PUC/Grafos/report.txt",
+		"/home/doug/Desktop/roteirotags.js",
+		"/home/doug/MEGA/seprovas/mongostaff/installupdated.sh",
+		"/home/doug/git/my-projects/sequestions-frontend/index.html",
+		"/home/doug/git/my-projects/route-resolver/index.html",
+		"/home/doug/Downloads/espanhol.json",
+		"/home/doug/Dropbox/seprovas/mongostaff/installupdated.sh",
+		"/home/doug/Dropbox/seprovas/mongostaff/mongoinstall.sh",
+		"/home/doug/Downloads/settings.json",
+		"/home/doug/Desktop/biblioteca.cs",
+		"/home/doug/Desktop/dump/meteor/subjects.metadata.json",
+		"/home/doug/Downloads/VMware-Player-12.1.1-3770994.x86_64.bundle",
+		"/home/doug/Desktop/Questions/espanhol.json",
+		"/home/doug/git/my-projects/templated-horizons/css/style.css",
+		"/home/doug/git/my-projects/templated-horizons/js/init.js",
+		"/home/doug/git/my-projects/templated-horizons/index.html",
+		"/home/doug/git/my-projects/templated-assembly/index.html",
+		"/home/doug/Downloads/Direito Administrativo",
+		"/home/doug/git/se-edu/init.js",
+		"/home/doug/Dropbox/seprovas/mongostaff/rsmaster.conf",
+		"/home/doug/Downloads/mup (1).json",
+		"/home/doug/git/se-edu/private/tags2.json",
+		"/home/doug/git/se-edu/private/ingles2.json",
+		"/home/doug/git/se-edu/private/tags.json",
+		"/home/doug/git/se-edu/private/sociologia.json",
+		"/home/doug/git/my-projects/sequestions-server/common/models/tags.js",
+		"/home/doug/Dropbox/seprovas/higienize-questions/tags_09-04-2016(final version)/tags.json",
+		"/home/doug/Downloads/Temas.txt",
+		"/home/doug/git/my-projects/sequestions-server/common/models/se-provas.js",
+		"/home/doug/Desktop/Questions/OAB/direito_processual_trabalho.json",
+		"/home/doug/Desktop/Questions/OAB/filosofia_direito.json",
+		"/home/doug/Desktop/Questions/OAB/direito_internacional.json",
+		"/home/doug/Desktop/Questions/OAB/direito_eca.json",
+		"/home/doug/Desktop/Questions/OAB/direito_do_consumidor.json",
+		"/home/doug/Desktop/Questions/OAB/direitos_humanos.json",
+		"/home/doug/Desktop/Questions/OAB/direito_ambiental.json",
+		"/home/doug/Desktop/Questions/OAB/direito_administrativo.json",
+		"/home/doug/Desktop/Questions/OAB/direito_administrativo2.json",
+		"/home/doug/Desktop/Questions/OAB/direito_empresarial.json",
+		"/home/doug/Desktop/Questions/OAB/direito_tributario.json",
+		"/home/doug/Desktop/Questions/OAB/direito_constitucional.json",
+		"/home/doug/Desktop/Questions/OAB/direito_constitucional2.json",
+		"/home/doug/Desktop/Questions/OAB/direito_do_trabalho2.json",
+		"/home/doug/Desktop/Questions/OAB/direito_do_trabalho.json",
+		"/home/doug/Desktop/Questions/OAB/direito_processual_penal.json",
+		"/home/doug/Desktop/Questions/OAB/direito_processual_penal2.json",
+		"/home/doug/Desktop/Questions/OAB/direito_penal2.json",
+		"/home/doug/Desktop/Questions/OAB/direito_penal.json",
+		"/home/doug/Desktop/Questions/OAB/direito_processual_civil2.json",
+		"/home/doug/Desktop/Questions/OAB/direito_processual_civil.json",
+		"/home/doug/Desktop/Questions/OAB/direito_civil2.json",
+		"/home/doug/Desktop/Questions/OAB/direito_civil.json",
+		"/home/doug/git/my-projects/sequestions-server/server/datasources.json",
+		"/home/doug/geografia.json",
+		"/home/doug/Downloads/Geografia 2.138 questoes.json",
+		"/home/doug/.cache/.fr-Y9mMXW/bundle/programs/server/program.json",
+		"/home/doug/.cache/.fr-Sm1BLb/bundle/programs/server/config.json",
+		"/home/doug/.cache/.fr-17IdSV/bundle/programs/server/app/init.js",
+		"/home/doug/Desktop/tags.json",
+		"/home/doug/Desktop/subjects.json",
+		"/home/doug/.cache/.fr-s7azAb/bundle/programs/server/assets/app/questions.json",
+		"/home/doug/.cache/.fr-rvnMxV/bundle/programs/server/app/server/main.js",
+		"/home/doug/git/se-edu/private/subjects.json",
+		"/home/doug/git/se-edu/private/questions.json",
+		"/home/doug/Desktop/questions.json",
+		"/home/doug/git/se-edu/public/questions.json",
+		"/home/doug/git/se-edu/public/subjects.json",
+		"/home/doug/git/my-projects/sequestions-server/common/models/se-provas.json",
+		"/home/doug/git/my-projects/sequestions-frontend/quimica.json",
+		"/home/doug/Downloads/espanhol a serem alteradas.txt",
+		"/home/doug/Downloads/-.txt",
+		"/home/doug/Documents/Scripts/backup_questions.sh",
+		"/home/doug/git/my-projects/sequestions-server/common/utils/node-office.js",
+		"/home/doug/git/my-projects/sequestions-server/package.json",
+		"/home/doug/Desktop/youtube-api/init.js",
+		"/home/doug/Desktop/youtube-api/package.js",
+		"/home/doug/git/se-edu/settings.json",
+		"/home/doug/Desktop/Conceitos аcido-base - Conceitos Modernos - 60 questфes.doc",
+		"/home/doug/Desktop/pdf-maker.js",
+		"/home/doug/Documents/Scripts/history.his"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/doug/git/msmusic/app",
+			"/home/doug/git/my-projects/sequestions-server/server",
+			"/home/doug/git/my-projects/sequestions-server/common/models"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"android-be-together-section mdl-typography",
+			"angularRoute",
+			"lib",
+			"',\n",
+			"min",
+			"msmusic",
+			"myApp",
+			"libs",
+			"bower_components",
+			"header",
+			"url",
+			"mdl-navigation__link",
+			"La recomendación de la defensora del pueblo se justifica por la",
+			"subject\":\"Espanhol\"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"”",
+			"“",
+			"ta_id",
+			"_id",
+			"insertRows",
+			"368224.300570422",
+			"	",
+			"imag",
+			"_id",
+			"Inglês",
+			"_id",
+			"Português",
+			"Alternativa",
+			"alterna",
+			"_id",
+			"}\n",
+			"_id",
+			"",
+			"",
+			"",
+			"",
+			"{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9ca\"},\"subject\":\"Lingua Portuguesa\",\"answer\":2,\"exams\":[\"FCC - 2010 - SJCDH-BA - Agente Penitenciário\"],\"text\":\"A Terra tem uma idade aproximada de 4,5 bilhões deanos. Nossa espécie, o Homo sapiens, apareceu em torno de200 mil anos atrás, na África. Se concentrássemos 4,5 bilhõesde anos em uma hora, nosso aparecimento teria ocorrido hámenos de dois décimos de segundo. Somos a presença maisrecente neste planeta.Evidências fósseis e genéticas indicam que grandesmigrações da África em direção à Eurásia e à Oceania ocorriamjá há 70 mil anos. A fala parece ter surgido há pelo menos50 mil. Há apenas 10 mil nós nos organizamos em sociedadesagrárias, capazes de se sustentarem com o plantio e colheitaregular de espécies de vegetais domesticados. Certamente,quando essas sociedades começaram a se organizar, algunsanimais também foram domesticados.Antes dessas sociedades agrárias, bandos de homens emulheres corriam pelas savanas e planícies eurasiáticas àprocura de alimentos e de abrigo. Os perigos eram muitos, deanimais predadores e grupos inimigos afenômenos naturaisviolentos como misteriosos vulcões e terremotos. Parasobreviver, nunca se podia baixar a guarda.Desde cedo, ficou claro aos nossos antepassados que anatureza tinha seus próprios ritmos, alguns regulares e outrosirregulares. A linguagem nasceu tanto para facilitar a sobrevivênciados grupos quanto para imitar os sons ouvidos pelomundo, de cachoeiras e trovões aos pássaros e aos temidostigres. Se a natureza cantava, os homens queriam cantartambém.Recentemente foram descobertos os instrumentos musicaismais antigos, flautas feitas de ossos de abutres e mamutes,datando de 35 e 40 mil anos atrás. Os objetos foram encontradosem uma região da Alemanha, provando que não só humanosjá haviam saído da África, como também haviam desenvolvidohabilidades musicais e artesanais. Se o vento assobiavaao passar por frestas e galhos, se gotas caíam ritmicamentedas folhas, os homens procuravam imitar esses sons, criandoos instrumentos capazesde fazê-lo.Pinturas nas cavernas da Europa e da África, algumasdatando de mais de 20 mil anos, mostram uma enorme variedadede animais e também de cenas de caçadas e de rituais.Provavelmente grupos se reuniam nas cavernas para comer,dormir e celebrar uma boa caça. As pinturas poderiam ser tantoornamentos quanto desenhos ritualísticos que faziam parte decerimônias religiosas. Certamente o som das flautas e dos tamboresacompanhava os rituais, talvez até na tentativa de imitaros grunhidos dos animais e os sons do ambiente natural ondeviviam.A música e a pintura não eram as únicas expressõesartísticas dessas sociedades. A escultura também. O impulsocriativo parece ser tão antigo quanto nossa espécie. Do poucoque conhecemos a respeito dos nossos ancestrais, identificamosneles bastante do que somos hoje. A diferença é que elesviviam em comunhão com o mundo ? e não em guerra com ele.(Marcelo Gleiser. Folha de S. Paulo, Mais!, 23 deagostode 2009, com adaptações) ... provando que não só humanos já haviam saído da África, como também haviam desenvolvido habilidades musicais e artesanais. (5º parágrafo) A afirmativa está corretamente transcrita, sem alteração do sentido original, em: ... provando\",\"tags\":[\"Interpretação de Textos\",\"Redação - Reescritura de texto\"],\"options\":[\"que somente na África os homens tinham aprendido a fazer instrumentos musicais e seus objetos manuais.\",\"que, quando saiu da África, os homens primitivos dominavam a música e os objetos com natural desenvoltura.\",\"que os homens primitivos tinham se espalhado por outros lugares, além da África, e já dominavam a confecção de instrumentos musicais e de objetos.\",\"quantos homens saídos da África passaram a dominar as artes musicais e o artesanato, como seu próprio desenvolvimento.\",\"como a África originou a espécie humana, com habilidades para reproduzir a música e os objetos manuais da natureza.\"],\"image\":null,\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9cb\"},\"subject\":\"Lingua Portuguesa\",\"answer\":2,\"exams\":[\"IESES - 2010 - CRM-DF - Assistente de Tecnologia da Informação\"],\"text\":\"Transparência e integração de processos são destaques do Conip Judiciário 2010 Brasília será palco do mais importante evento de tecnologia da informação e comunicação focado no Poder Judiciário. Nos dias 01 e 02 de dezembro, o Conip Judiciário 2010 - Congresso de Inovação e Informática na Gestão Pública para o Poder Judiciário reúne os principais decisores de TI dos 92 Tribunais existentes no País para troca de experiências e apresentações de soluções. Em sua 5ª edição, o fórum apresenta uma programação temária variada na qual se destacam as iniciativas relacionadas à maior transparência na gestão pública e ao processo de integração dos processos eletrônicos. A movimentação do governo, com abertura e acesso às informações sobre as finanças públicas e o acesso aos dados e performance dos tribunais tanto por parlamentares quanto pelo cidadão, por meio de um sítio na web, dentre outros, são alguns dos temas relativos à transparência aserem debatidos. Sobre a integração, o especialista em governo eletrônico, gerente do W3C* e coordenador geral do Conip Judiciário 2010, Vagner Diniz, adianta que o congresso é um espaço único para debater as tendências e desafios do setor, já que há inúmeros sistemas diferenciados e que exigem interoperabilidade. \\\"A apresentação de cases por profissionais envolvidos no poder judiciário é a maneira mais eficaz de se levantar soluções viáveis para os órgãos públicos\\\", afirma. Com uma demanda crescente, que passa por uma ampla consideração acerca do modo como são realizadas as experiências em certas unidades e sua evolução, a transparência nos órgãos públicos é um dos principais aspectos a serem debatidos no Conip Judiciário. Indo além da polêmica que envolve a abertura de dados, como os salários pagos aos servidores públicos, pretende-se fomentar uma discussão mais ampla e que contemple, desde as experiências locais até os desafios encontrados para adisponibilização dos portais de transparência. [...] Por meio de uma proposta já consagrada em edições anteriores, o Congresso dá continuidade a um formato bem sucedido ao oferecer mais oportunidades para a apresentação de casos práticos, isto é, uma versão mais \\\"hands-on\\\" (para \\\"colocar as mãos na massa\\\"), daquilo que será debatido por diferentes especialistas. Tal modelo pode ser exemplificado conforme as apresentações que contemplam a questão da transparência e integração no poder judiciário. Outro tema de destaque na programação do Conip Judiciário é a possibilidade de integração de processos internos e, por conseqüência, de melhor atendimento ao público através da desmaterialização dos processos, isto é, tornar os tribunais digitais, sem papel. Mais do que isso, a digitalização dos processos representaria uma sofisticação das plataformas que passariam a atender os requisitos de interoperabilidade dos sistemas governamentais. Disponívelem: http://www.segs.com.br/index.php? option=com_content\\u0026view =article\\u0026id=25276: transparencia-e-integracao-de-processos-sao-destaques-do-conip-judiciario-2010\\u0026catid=50:cat-demais\\u0026Itemid=331. Acesso em: 01/12/2010. Adaptado. *W3C (World Wide Web Consortium) consórcio internacional, responsável pela criação de normas que regem a Web.  Assinale a frase que, mesmo modificada, mantém o sentido original do texto.\",\"tags\":[\"Interpretação de Textos\"],\"options\":[\"Além disso, os sistemas governamentais, representados pela digitalização dos processos pela sofisticação das plataformas, atendem os requisitos de interoperabilidade.\",\"Wagner Diniz afirma que \\\"a apresentação de casos por profissionais contratados pelo poder judiciário é a maneira mais eficiente de identificar soluções viáveis para os órgãos públicos.\",\"Na programação do 5° Conip, que apresenta um conjunto de temas diversificados, destacam-se as iniciativas relacionadas à maior transparência na gestão pública e ao processo de integração dos processos eletrônicos.\",\"A questão da transparência e integração no poder judiciário é exemplificada pelo modelo colocar a mão na massa.\"],\"image\":null,\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9cc\"},\"subject\":\"Lingua Portuguesa\",\"answer\":0,\"exams\":[\"IESES - 2010 - CRM-DF - Advogado\"],\"text\":\"Em relação ao texto, é correto afirmar que:\",\"tags\":[\"Interpretação de Textos\"],\"options\":[\"A frase O poder de compra de computadores, por exemplo, deve ser estendido a todos os advogados dá a entender que existem advogados sem condições econômicas para adquirir um computador e uma impressora.\",\"Se antes havia dúvidas sobre a segurança do processo digital e da certificação digital, isso deixou de existir à medida que a OAB assumiu a condição de Autoridade Certificadora.\",\"A Certificação Digital emitida pela OAB somente será válida se o advogado adquirir um chip, público ou privado, e um leitor de cartões.\",\"Antes de a OAB fornecer a certificação digital, as assinaturas eletrônicas já eram usadas no Pretório Excelso, com igual padrão de segurança adequada.\"],\"image\":\"https://s3.amazonaws.com/files-s3.iesde.com.br/resolucaoq/questao/2014_08_23_53f82783aafb7.jpg\",\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9ce\"},\"subject\":\"Lingua Portuguesa\",\"answer\":3,\"exams\":[\"FUMARC - 2010 - CEMIG-TELECOM - Advogado Júnior\",\"FUMARC - 2010 - CEMIG-TELECOM - Analista Administrativo\",\"FUMARC - 2010 - CEMIG-TELECOM - Analista de TI Júnior\"],\"text\":\"Instrução: As questões de 1 a 4 referem-se ao texto a seguir. Leia-o antes de responder a elas. Existe um diagnóstico sobre a interface entre energia, meio ambiente e sociedade? Claudio J. D. Sales 1 A construção de uma usina para geração de energia elétrica, seja ela hidrelétrica, seja termelétrica, interfere, sim, na vida das pessoas que vivem nas regiões de influência dos rios e de outros ecossistemas. A realidade precisa ser encarada: apesar da necessidade de gerar energia para abastecer o País, a chegada desses empreendimentos provoca o deslocamento compulsório de famílias. E isso não tem preço. 2 O desafio de formuladores de políticas públicas e de empreendedores é acabar com a frase uma minoria precisa se sacrificar para beneficiar a maioria. Muito fácil dizer isso quando se está do lado da maioria. 3 É urgente um debate objetivo e despolitizado sobre como tem evoluído o respeito às populações noentorno dos empreendimentos de geração de eletricidade. Afinal, quais são os mecanismos legais e os programas que têm sido implantados para amenizar o inevitável sentimento de perda das comunidades, que precisam rever seus costumes e valores em prazos muito curtos? 4 A história da eletricidade no Brasil tem 125 anos. Começa em 1883, com a pequena usina hidrelétrica de Ribeirão do Inferno, com 0,5 MW de potência, no município mineiro de Diamantina. Na ocasião, foram indenizados apenas os proprietários de terras inundadas pela barragem. Foi assim por 100 anos. 5 Em 1983, com uma enchente extraordinária do rio Paraná, a CESP (Centrais Elétricas de São Paulo) reassentou as primeiras famílias não proprietárias de terra: posseiros, meeiros e arrendatários. A agenda do setor passa, então, a incorporar um olhar mais amplo sobre modos de vida, de produção e de geração de renda. 6 Nosso País requer, todos os anos, cerca de 3.000 MW médios adicionais para atenderao crescimento de sua economia. A construção de novas usinas traz consigo coisas boas. As mais visíveis são novos postos de trabalho e o aumento de arrecadação de impostos para municípios, estados e a União, que podem usar esses recursos para saúde, educação e segurança. 7 É fácil visualizar os benefícios para a maioria. Mas e a minoria? O que acontece com as comunidades locais, em termos concretos, no curto e no longo prazo? A vida dessas pessoas melhora ou piora? 8 Estima-se que foram remanejadas 200 mil famílias devido à construção de usinas. E desde 1983, quando foram remanejadas as primeiras famílias, a preocupação com os impactos sociais dos empreendimentos cresceu. Essa evolução foi provocada ora pelo poder público, ora pelos empreendedores, estatais ou privados. 9 A voz da população tem sido formalmente ouvida. O Conselho Nacional de Meio Ambiente (Conama) estabeleceu, na década de 80, a necessidade de submeter os estudos de impacto ambiental aaudiências públicas. Também com o objetivo de dar transparência ao processo foi criado o Foro de Negociação onde, sob coordenação do Ibama, lideranças locais, Ministério Público, governo federal e empreendedores buscam soluções de consenso para o remanejamento da população. 10 Mas só um novo pedaço de chão não resolve o problema das famílias. Além de terra e orientação técnica, era preciso acesso a crédito rural para o desenvolvimento adequado da atividade agrícola. Com baixas taxas de juros e seguro contra perda da safra, a partir de 1998 as famílias que moram em reassentamentos passam a ter acesso aos recursos do Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf), que permitiu o aumento da produção e da renda familiar. 11 A evolução continua. Em 2006, uma iniciativa pioneira no Sul do País coloca à disposição da região da usina um Fundo de Desenvolvimento Rural. Com o apoio de técnicos do Sebrae, recursos dos empreendedores financiamprojetos para agregar valor aos produtos agrícolas, aumentando a renda das famílias da região dos empreendimentos. É um belo projeto, que prevê que as amortizações dos financiamentos retornem ao próprio fundo para financiar novos projetos, criando um ciclo autossustentado que viabiliza a permanência desses produtores no campo, em atividades que fazem parte da realidade local. 12 Embora haja relevantes avanços, é fundamental aprimorar e fortalecer os mecanismos legais e de comunicação com as comunidades. Ouvir as pessoas e seus anseios, tratando-as como indivíduos e não como estatísticas, diminui a ansiedade e os temores que as mudanças trazem. 13 O mais importante no processo de realocação das famílias é o respeito aos valores individuais e coletivos para que seja possível a construção de um diálogo aberto e direto, sem intermediários, entre comunidades e empreendedores. Esse é o caminho para demolir as fronteiras entre maiorias e minorias e para quetodos passem a enxergar esses empreendimentos como oportunidades de transformação e inclusão social. (Adaptado de: . Acesso em 20 out. 2010.)  Assinale a alternativa em que o referente da expressão em destaque tenha sido CORRETAMENTE identificado entre parênteses.\",\"tags\":[\"Interpretação de Textos\"],\"options\":[\"O desafio de formuladores de políticas públicas e de empreendedores é acabar com a frase uma minoria precisa se sacrificar para beneficiar a maioria. Muito fácil dizer isso quando se está do lado da maioria. (uma minoria precisa se sacrificar  2º §)\",\"As mais visíveis são novos postos de trabalho e o aumento de arrecadação de impostos para municípios, estados e a União, que podem usar esses recursos para saúde, educação e segurança. (novos postos e aumento  6º §)\",\"A realidade precisa ser encarada: apesar da necessidade de gerar energia para abastecer o País, a chegada desses empreendimentos provoca o deslocamento compulsório de famílias. E isso não tem preço. (a necessidade de gerar energia para abastecer o País  1º §)\",\"Esse é o caminho para demolir as fronteiras entre maiorias e minorias e para que todos passem a enxergar esses empreendimentos como oportunidades de transformação e inclusão social. (o respeito aos valores individuais e coletivos  13º §)\"],\"image\":null,\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9cf\"},\"subject\":\"Lingua Portuguesa\",\"answer\":1,\"exams\":[\"CESPE - 2010 - TRT - 21ª Região (RN) - Técnico Judiciário - Área Administrativa\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Técnico Judiciário - Tecnologia da Informação\"],\"text\":\"Com referência às ideias do texto, julgue os itens a seguir.Infere-se da leitura do texto que a existência virtual e a existência física assemelham-se no que se refere à determinação dos limites de tempo e espaço de atuação profissional.\",\"tags\":[\"Interpretação de Textos\"],\"options\":[\"certo\",\"errado\"],\"image\":\"https://s3.amazonaws.com/files-s3.iesde.com.br/resolucaoq/questao/2014_08_23_53f82b354263d.jpg\",\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9d0\"},\"subject\":\"Lingua Portuguesa\",\"answer\":0,\"exams\":[\"CESPE - 2010 - TRT - 21ª Região (RN) - Técnico Judiciário - Área Administrativa\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Técnico Judiciário - Tecnologia da Informação\"],\"text\":\"Com referência às ideias do texto, julgue os itens a seguir.De acordo com o texto, a tecnologia imprimiu novo sentido aos denominados espaços de sujeição (L.40), que, agora, independem da presença física do sujeito no ambiente de trabalho.\",\"tags\":[\"Interpretação de Textos\"],\"options\":[\"certo\",\"errado\"],\"image\":\"https://s3.amazonaws.com/files-s3.iesde.com.br/resolucaoq/questao/2014_08_23_53f82b4cd769a.jpg\",\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9d1\"},\"subject\":\"Lingua Portuguesa\",\"answer\":0,\"exams\":[\"CESPE - 2010 - TRT - 21ª Região (RN) - Técnico Judiciário - Área Administrativa\"],\"text\":\"Julgue os itens que se seguem, relativos a aspectos gramaticais e semânticos do texto.A expressão em lugar (L.15) poderia ser substituída por em vez, sem prejuízo para o sentido e a clareza do texto.\",\"tags\":[\"Interpretação de Textos\",\"Significação Contextual de Palavras e expressões\",\"Redação - Reescritura de texto\",\"Fonologia - conectivos\",\"Sintaxe - Período -  Simples e Composto\",\"Fonologia\",\"Sintaxe\"],\"options\":[\"certo\",\"errado\"],\"image\":\"https://s3.amazonaws.com/files-s3.iesde.com.br/resolucaoq/questao/2014_08_23_53f82c854de26.jpg\",\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9d2\"},\"subject\":\"Lingua Portuguesa\",\"answer\":0,\"exams\":[\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Medicina - Cardiologia\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Tecnologia da Informação\"],\"text\":\"No que se refere às ideias, à organização, bem como aos aspectosgramaticais do texto acima, julgue os itens de 1 a 11. É coerente com a argumentação do texto relacionar \\\"novas demandas\\\" (L.9) a enfraquecimento dos países, em decorrência da transnacionalização do capital.\",\"tags\":[\"Interpretação de Textos\"],\"options\":[\"certo\",\"errado\"],\"image\":\"https://s3.amazonaws.com/files-s3.iesde.com.br/resolucaoq/questao/2014_08_23_53f82ce5b6f3a.jpg\",\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9d3\"},\"subject\":\"Lingua Portuguesa\",\"answer\":0,\"exams\":[\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Medicina - Cardiologia\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Tecnologia da Informação\"],\"text\":\"Com relação ao texto acima, julgue os itens de 15 a 24. Acarretaria alteração de sentido e prejuízo para a correção gramatical do texto o emprego da vírgula antes da palavra \\\"que\\\" no trecho \\\"oposição que faz parte\\\" (L.17-18).\",\"tags\":[\"Fonologia - Sinais de pontuação - Vírgula\",\"Interpretação de Textos\",\"Redação - Reescritura de texto\",\"Fonologia - Sinais de pontuação\",\"Fonologia\"],\"options\":[\"certo\",\"errado\"],\"image\":\"https://s3.amazonaws.com/files-s3.iesde.com.br/resolucaoq/questao/2014_08_23_53f82d2dbb004.jpg\",\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9d4\"},\"subject\":\"Lingua Portuguesa\",\"answer\":1,\"exams\":[\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Área Administrativa\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Área Judiciária\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Arquivologia\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Biblioteconomia\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Contabilidade\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Execução de Mandados\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Medicina - Cardiologia\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Tecnologia da Informação\"],\"text\":\"Com relação ao texto acima, julgue os itens de 15 a 24. Os trechos \\\"se o mundo civilizado é visto como distante e pensado como contraponto ao mundo natural\\\" (L.10-12) e \\\"um verdadeiro caleidoscópio\\\" (L.36-37) reforçam a ideia de dubiedade do enfoque com que se procurou dar um sentido explicativo ao Brasil, no século XIX, o que denunciaria o caráter não científico do texto.\",\"tags\":[\"Interpretação de Textos\"],\"options\":[\"certo\",\"errado\"],\"image\":\"https://s3.amazonaws.com/files-s3.iesde.com.br/resolucaoq/questao/2014_08_23_53f82de37b4f9.jpg\",\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9d5\"},\"subject\":\"Lingua Portuguesa\",\"answer\":0,\"exams\":[\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Área Administrativa\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Área Judiciária\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Arquivologia\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Biblioteconomia\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Contabilidade\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Execução de Mandados\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Medicina - Cardiologia\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Tecnologia da Informação\"],\"text\":\"No que se refere às ideias, à organização, bem como aos aspectosgramaticais do texto acima, julgue os itens de 1 a 11. O trecho \\\"vão do setor produtivo industrial ao setor financeiro, passando pela publicidade e pelas comunicações\\\" (L.19-21) pode, sem prejuízo para a correção gramatical e a interpretação do texto, ser reescrito da seguinte maneira: incluem setores desde o produtivo industrial até o financeiro e transitam pelos da publicidade e das comunicações.\",\"tags\":[\"Interpretação de Textos\"],\"options\":[\"certo\",\"errado\"],\"image\":\"https://s3.amazonaws.com/files-s3.iesde.com.br/resolucaoq/questao/2014_08_23_53f82e07e82d2.jpg\",\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9d6\"},\"subject\":\"Lingua Portuguesa\",\"answer\":1,\"exams\":[\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Área Administrativa\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Área Judiciária\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Arquivologia\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Biblioteconomia\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Contabilidade\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Execução de Mandados\"],\"text\":\"No que se refere às ideias, à organização, bem como aos aspectosgramaticais do texto acima, julgue os itens de 1 a 11. Preservam-se a correção gramatical e o sentido original do texto ao se substituir sem controle (L.12) por aleatoriamente.\",\"tags\":[\"Interpretação de Textos\",\"Significação Contextual de Palavras e expressões\",\"Redação - Reescritura de texto\"],\"options\":[\"certo\",\"errado\"],\"image\":\"https://s3.amazonaws.com/files-s3.iesde.com.br/resolucaoq/questao/2014_08_23_53f82fa59a119.jpg\",\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9d7\"},\"subject\":\"Lingua Portuguesa\",\"answer\":1,\"exams\":[\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Área Administrativa\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Área Judiciária\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Arquivologia\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Biblioteconomia\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Contabilidade\",\"CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Execução de Mandados\"],\"text\":\"No que se refere às ideias, à organização, bem como aos aspectosgramaticais do texto acima, julgue os itens de 1 a 11. No trecho não mais do que três centenas (L.18-19), o emprego de palavra de negação e da expressão três centenas, em vez de trezentos grupos, atenua o tom de denúncia que predomina no período em que o trecho está inserido.\",\"tags\":[\"Interpretação de Textos\"],\"options\":[\"certo\",\"errado\"],\"image\":\"https://s3.amazonaws.com/files-s3.iesde.com.br/resolucaoq/questao/2014_08_23_53f82fe2d831e.jpg\",\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9d8\"},\"subject\":\"Lingua Portuguesa\",\"answer\":2,\"exams\":[\"NCE-UFRJ - 2010 - UFRJ - Técnico de Contabilidade\"],\"text\":\"CIDADE MARAVILHOSA?Os camelôs são pais de famílias bem pobres, e, então, merecem nossa simpatia e nosso carinho; logo eles se multiplicam por 1000. Aqui em frente à minha casa, na Praça General Osório, existe há muito tempo a feira hippie. Artistas e artesãos expõem ali aos domingos e vendem suas coisas. Uma feira um tanto organizada demais: sempre os mesmos artistas mostrando coisas quase sempre sem interesse. Sempre achei que deveria haver um canto em que qualquer artista pudesse vender um quadro; qualquer artista ou mesmo qualquer pessoa, sem alvarás nem licenças. Enfm, o fato é que a feira funcionava, muita gente comprava coisas tudo bem. Pois de repente, de um lado e outro, na Rua Visconde de Pirajá, apareceram barracas atravancando as calçadas, vendendo de tudo - roupas, louças, frutas, miudezas, brinquedos, objetos usados, ampolas de óleo de bronzear, passarinhos, pipocas, aspirinas, sorvetes, canivetes. E as praias foram invadidas por 1000vendedores. Na rua e na areia, uma orgia de cães. Nunca vi tantos cães no Rio, e presumo que muita gente anda com eles para se defender de assaltantes. O resultado é uma sujeira múltipla, que exige cuidado do pedestre para não pisar naquelas coisas. E aquelas coisas secam, viram poeira, unem-se a cascas de frutas podres e dejetos de toda ordem, e restos de peixes da feira das terças, e folhas, e cusparadas, e jornais velhos; uma poeira dos três reinos da natureza e de todas as servidões humanas.Ah, se venta um pouco o noroeste, logo ela vai-se elevar, essa poeira, girando no ar, entrar em nosso pulmão numa lufada de ar quente. Antigamente a gente fugia para a praia, para o mar. Agora há gente demais, a praia está excessivamente cheia. Está bem, está bem, o mar, o mar é do povo, como a praça é do condor mas podia haver menos cães e bolas e pranchas e barcos e camelôs e ratos de praia e assaltantes que trabalham até dentro dágua, com um canivete na barriga alheia, esujeitos que carregam caixas de isopor e anunciam sorvetes e quando o inocente cidadão pede picolé de manga, eis que ele abre a caixa e de lá puxa a arma. Cada dia inventam um golpe novo: a juventude é muito criativa, e os assaltantes são quase sempre muito jovens.Rubem Braga A alternativa em que o termo sublinhado foi substituído por outro que NÃO mantém o mesmo sentido original é:\",\"tags\":[\"Interpretação de Textos\"],\"options\":[\"...coisas quase sempre sem interesse = desinteressantes;\",\"Aqui em frente a minha casa... = diante de;\",\"...e dejetos de toda ordem... = desordenados;\",\"...uma orgia de cães = canina;\",\"Pois de repente... = repentinamente.\"],\"image\":null,\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9d9\"},\"subject\":\"Lingua Portuguesa\",\"answer\":0,\"exams\":[\"NCE-UFRJ - 2010 - UFRJ - Técnico de Contabilidade\"],\"text\":\"CIDADE MARAVILHOSA?Os camelôs são pais de famílias bem pobres, e, então, merecem nossa simpatia e nosso carinho; logo eles se multiplicam por 1000. Aqui em frente à minha casa, na Praça General Osório, existe há muito tempo a feira hippie. Artistas e artesãos expõem ali aos domingos e vendem suas coisas. Uma feira um tanto organizada demais: sempre os mesmos artistas mostrando coisas quase sempre sem interesse. Sempre achei que deveria haver um canto em que qualquer artista pudesse vender um quadro; qualquer artista ou mesmo qualquer pessoa, sem alvarás nem licenças. Enfm, o fato é que a feira funcionava, muita gente comprava coisas tudo bem. Pois de repente, de um lado e outro, na Rua Visconde de Pirajá, apareceram barracas atravancando as calçadas, vendendo de tudo - roupas, louças, frutas, miudezas, brinquedos, objetos usados, ampolas de óleo de bronzear, passarinhos, pipocas, aspirinas, sorvetes, canivetes. E as praias foram invadidas por 1000vendedores. Na rua e na areia, uma orgia de cães. Nunca vi tantos cães no Rio, e presumo que muita gente anda com eles para se defender de assaltantes. O resultado é uma sujeira múltipla, que exige cuidado do pedestre para não pisar naquelas coisas. E aquelas coisas secam, viram poeira, unem-se a cascas de frutas podres e dejetos de toda ordem, e restos de peixes da feira das terças, e folhas, e cusparadas, e jornais velhos; uma poeira dos três reinos da natureza e de todas as servidões humanas.Ah, se venta um pouco o noroeste, logo ela vai-se elevar, essa poeira, girando no ar, entrar em nosso pulmão numa lufada de ar quente. Antigamente a gente fugia para a praia, para o mar. Agora há gente demais, a praia está excessivamente cheia. Está bem, está bem, o mar, o mar é do povo, como a praça é do condor mas podia haver menos cães e bolas e pranchas e barcos e camelôs e ratos de praia e assaltantes que trabalham até dentro dágua, com um canivete na barriga alheia, esujeitos que carregam caixas de isopor e anunciam sorvetes e quando o inocente cidadão pede picolé de manga, eis que ele abre a caixa e de lá puxa a arma. Cada dia inventam um golpe novo: a juventude é muito criativa, e os assaltantes são quase sempre muito jovens.Rubem Braga O autor critica basicamente dois tipos de poluição, que são:\",\"tags\":[\"Interpretação de Textos\"],\"options\":[\"ambiental e visual;\",\"visual e sonora;\",\"sonora e marinha;\",\"marinha e social;\",\"social e ambiental.\"],\"image\":null,\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f499f1d96cf60ad4c9da\"},\"subject\":\"Lingua Portuguesa\",\"answer\":2,\"exams\":[\"NCE-UFRJ - 2010 - UFRJ - Técnico de Contabilidade\"],\"text\":\"CIDADE MARAVILHOSA?Os camelôs são pais de famílias bem pobres, e, então, merecem nossa simpatia e nosso carinho; logo eles se multiplicam por 1000. Aqui em frente à minha casa, na Praça General Osório, existe há muito tempo a feira hippie. Artistas e artesãos expõem ali aos domingos e vendem suas coisas. Uma feira um tanto organizada demais: sempre os mesmos artistas mostrando coisas quase sempre sem interesse. Sempre achei que deveria haver um canto em que qualquer artista pudesse vender um quadro; qualquer artista ou mesmo qualquer pessoa, sem alvarás nem licenças. Enfm, o fato é que a feira funcionava, muita gente comprava coisas tudo bem. Pois de repente, de um lado e outro, na Rua Visconde de Pirajá, apareceram barracas atravancando as calçadas, vendendo de tudo - roupas, louças, frutas, miudezas, brinquedos, objetos usados, ampolas de óleo de bronzear, passarinhos, pipocas, aspirinas, sorvetes, canivetes. E as praias foram invadidas por 1000vendedores. Na rua e na areia, uma orgia de cães. Nunca vi tantos cães no Rio, e presumo que muita gente anda com eles para se defender de assaltantes. O resultado é uma sujeira múltipla, que exige cuidado do pedestre para não pisar naquelas coisas. E aquelas coisas secam, viram poeira, unem-se a cascas de frutas podres e dejetos de toda ordem, e restos de peixes da feira das terças, e folhas, e cusparadas, e jornais velhos; uma poeira dos três reinos da natureza e de todas as servidões humanas.Ah, se venta um pouco o noroeste, logo ela vai-se elevar, essa poeira, girando no ar, entrar em nosso pulmão numa lufada de ar quente. Antigamente a gente fugia para a praia, para o mar. Agora há gente demais, a praia está excessivamente cheia. Está bem, está bem, o mar, o mar é do povo, como a praça é do condor mas podia haver menos cães e bolas e pranchas e barcos e camelôs e ratos de praia e assaltantes que trabalham até dentro dágua, com um canivete na barriga alheia, esujeitos que carregam caixas de isopor e anunciam sorvetes e quando o inocente cidadão pede picolé de manga, eis que ele abre a caixa e de lá puxa a arma. Cada dia inventam um golpe novo: a juventude é muito criativa, e os assaltantes são quase sempre muito jovens.Rubem Braga logo eles se multiplicam por 1000; E as praias foram invadidas por 1000 vendedores. O número 1000, nesses dois segmentos do texto:\",\"tags\":[\"Interpretação de Textos\"],\"options\":[\"referem-se aos mesmos vendedores, em momentos diferentes;\",\"indicam uma quantidade indeterminada de vendedores;\",\"mostram somente uma ideia de grande quantidade;\",\"representam o enorme progresso da cidade;\",\"demonstram o crescimento desordenado da cidade.\"],\"image\":null,\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f4a8f1d96cf60ad4c9db\"},\"subject\":\"Lingua Portuguesa\",\"answer\":4,\"exams\":[\"NCE-UFRJ - 2010 - UFRJ - Assistente Administrativo\"],\"text\":\"Quem tem um bicho de estimação...; a forma de reescrever-se esse segmento do texto que ALTERA o seu sentido original é:\",\"tags\":[\"Interpretação de Textos\",\"Redação - Reescritura de texto\",\"Coesão e coerência\"],\"options\":[\"Quem possui um bicho de estimação.\",\"Os que têm um bicho de estimação.\",\"Aqueles que possuem um bicho de estimação.\",\"Aquele que tem um bicho de estimação.\",\"Quem tem a posse de um bicho de estimação.\"],\"image\":\"https://s3.amazonaws.com/files-s3.iesde.com.br/resolucaoq/questao/2014_08_23_53f8302c2196e.jpg\",\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f4a8f1d96cf60ad4c9dc\"},\"subject\":\"Lingua Portuguesa\",\"answer\":3,\"exams\":[\"NCE-UFRJ - 2010 - UFRJ - Assistente Administrativo\"],\"text\":\"...é o mais esperto do mundo. Esse pensamento representa:\",\"tags\":[\"Interpretação de Textos\"],\"options\":[\"uma antiga forma de pensar sobre a inteligência animal;\",\"um pensamento corrente sobre os animais selvagens;\",\"um conceito errado sobre os animais domésticos;\",\"um carinhoso modo de pensar sobre animais de estimação;\",\"um falso pensamento fundamentado apenas nas aparências.\"],\"image\":\"https://s3.amazonaws.com/files-s3.iesde.com.br/resolucaoq/questao/2014_08_23_53f830fcb3cb0.jpg\",\"video\":null,\"type\":\"closed\",\"year\":null},\n{\"_id\":{\"$oid\":\"5676f4a8f1d96cf60ad4c9dd\"},\"subject\":\"Lingua Portuguesa\",\"answer\":0,\"exams\":[\"NCE-UFRJ - 2010 - UFRJ - Assistente Administrativo\"],\"text\":\"Sobre o título dado ao texto, pode-se fazer, de forma adequada, a seguinte afrmação:\",\"tags\":[\"Interpretação de Textos\"],\"options\":[\"a pergunta não é respondida no texto;\",\"trata-se de uma questão sobre a qual a ciência ainda não apresenta todas as respostas;\",\"representa uma interrogação feita pelos proprietários de animais domésticos;\",\"o pronome eles se refere exclusivamente aos animais domésticos;\",\"a pergunta fala sobre as preocupações dos donos de animais.\"],\"image\":\"https://s3.amazonaws.com/files-s3.iesde.com.b",
+			"",
+			"\\u0096",
+			"\\u003c",
+			"\\u003e",
+			"_id",
+			"Lingua Portuguesa",
+			"name\":\" ",
+			"''",
+			"null",
+			"natural",
+			"human",
+			"image\":\"",
+			"Ciências Humanas e suas Tecnologias",
+			"Ciências da Natureza e suas Tecnologias",
+			"Com relação à Era Vargas (1930-1945), julgue",
+			"enfraquecimento da oligarquiacafeeira, o fortalecimento dos setores urbanos industriais",
+			"região, especialmente dos cariris, à utilização do trabalho",
+			"Serra do Espinhaço.\",\"Cordilheira do Curimataú.\",\"Serra da Neblina.\",\"Serra do",
+			"CONAMA 357/2005. Uma estação de tratamento de",
+			"tratamento terciário. O uso dos sistemas de lagoas de estabilização ou de lodos ativados ocorre na(s) fase(s) ",
+			"image:",
+			"_id",
+			"console.log",
+			"removeBadChars",
+			"	.",
+			"		.",
+			"			.",
+			"				.",
+			"		.",
+			"	.",
+			". ",
+			"getQuestionChemistryDoc",
+			"1",
+			"a.length",
+			"{{",
+			"text",
+			"image",
+			"w:t",
+			"k",
+			"w:t",
+			"image",
+			"SeProvas.getQuestionChemistryDoc = function(subject, tags, cb) {\n\n        var datasources = SeProvas.app.datasources['mongodb'];\n        var mongodb     = datasources.adapter.db;\n        var ObjectID    = datasources.ObjectID;\n\n        NodeOffice.readFile(\"Cinética Química.docx\", function (err, bodyObject) {\n          if(err) cb(err);\n          else {\n\n            var questionsToInsert = [];\n            var questionObj = null;\n            var auxOpt = null;\n            var auxOptText = null;\n            var auxAnswer = null;\n            var content = bodyObject.getChemistryContent();\n\n            for (var i = 0; i < content.length; i++) {\n                var val = content[i];\n\n                if (val.text && val.text.indexOf('undefined') < 0) {\n                    val = val.text;\n\n                    if (val.match(/^([0-9]+\\s-\\s)/g)) {\n                        if (questionObj &&\n                            questionObj.answer && \n                            questionObj.answer !== '***') {\n                            if (questionsToInsert.text && \n                                questionsToInsert.text.indexOf('undefined') >= 0)\n                                console.log(questionsToInsert.text.indexOf('undefined') >= 0)\n\n                            questionsToInsert.push(questionObj);\n                        }\n\n                        auxAnswer = null;\n                        var exams = val.replace(/^([0-9]+\\s-\\s)/g, '').trim();\n                        questionObj = {\n                            exams: [exams.substring(1, exams.length - 1)],\n                            subject: subject,\n                            tags: tags,\n                            type: 'open',\n                            options: null,\n                        };\n                    } else if (!questionObj.answer \n                        && !questionObj.options \n                        && !val.match(/^([a-f|A-F]\\))/g))\n                            questionObj.text += val;\n\n                    if (questionObj.options)\n                        questionObj.type = 'closed';\n\n                    if (val.match(/^([a-f|A-F]\\))/g)) {\n                        if (!questionObj.options) questionObj.options = [];\n                        var opt = _.first(val.match(/^([a-f|A-F]\\))/g));\n                        var option = val.replace(/^([a-f|A-F]\\))/g, '').trim();\n\n                        if (!auxOpt && !auxOptText) {\n                            auxOpt = opt;\n                            auxOptText = option;\n                        } else {\n                            questionObj.options.push(auxOptText);\n                            auxOpt = opt;\n                            auxOptText = option;\n                        }\n                    } else if (auxOpt)\n                        auxOptText += val;\n\n                    if (val.match(/^(:\\s)/g) && content[i + 1].text.match(/^(Gab)/g)) {\n                        auxOpt = null;\n                        auxOptText = null;\n\n                        var answer = val.replace(/^(:\\s)/g, '').trim();\n                        if (answer && !questionObj.options)\n                            questionObj.answer = answer;\n\n                        if (answer && questionObj.options) {\n                            if (answer.match(/([a-z|A-Z])/g)) {\n                                answer = answer.toLowerCase().trim();\n                                questionObj.answer = answer.charCodeAt(0) - 97;\n                            };\n                        };\n\n                        if (!answer) questionObj.answer = '***';\n                    };\n\n                    if (val.match(/^(Gab)/g));\n\n                    if (questionObj.answer === '***') {\n                        if (auxAnswer) auxAnswer = '';\n                        auxAnswer += val;\n                    };\n\n\n                };\n            };\n\n            cb(null, questionsToInsert);\n          }\n        });\n    },\n\n    SeProvas.remoteMethod(\n        'getQuestionChemistryDoc', \n        {   \n            accepts: [\n                { arg: 'subject', type: 'string', required: true },\n                { arg: 'tags', type: 'string', required: true },\n            ],\n            returns: [\n                { root: true }\n            ],\n            http: { path: '/getQuestionChemistryDoc', verb: 'post' }\n        }\n    );",
+			"db",
+			"higienizeQuestions",
+			"higienizeOptionsQuestions",
+			"higienizeQuestions",
+			"higienizeOptionsQuestions",
+			"log",
+			"val.text",
+			"paragraphs[i]['w:r'][j]['w:t']",
+			"i",
+			"};\n",
+			"}",
+			"themes",
+			"questionObj.options",
+			"val",
+			"downloadImages",
+			"\\n",
+			"apply",
+			"async",
+			"apply",
+			"                    \n",
+			"i",
+			"value",
+			"wp:docPr",
+			"image",
+			"Worker",
+			"async",
+			"next",
+			"//",
+			"\\\\n",
+			"<B>",
+			"downloadImages",
+			"console.log(query);",
+			"': { $in: [",
+			"in",
+			"status.",
+			"status",
+			".status.",
+			".status",
+			"status.",
+			"status",
+			"nin",
+			"EEAR",
+			"findBy",
+			"console.",
+			"update"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3377,
+								3377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 588.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/modules/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145,
+								145
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/partials/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								424,
+								424
+							]
+						],
+						"settings":
+						{
+							"auto_name": "home.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/styles/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1330,
+								1330
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 798.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.git-checkout":
+	{
+		"height": 100.0
+	},
+	"output.git-commit":
+	{
+		"height": 100.0
+	},
+	"output.git-merge":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "msmusic.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
