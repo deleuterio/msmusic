@@ -119,39 +119,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "app/index.html",
-			"settings":
-			{
-				"buffer_size": 3420,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/modules/index.js",
-			"settings":
-			{
-				"buffer_size": 218,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/partials/home.html",
-			"settings":
-			{
-				"buffer_size": 1702,
-				"line_ending": "Unix",
-				"name": "home.html"
-			}
-		},
-		{
-			"file": "app/styles/styles.css",
-			"settings":
-			{
-				"buffer_size": 1404,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -309,12 +276,26 @@
 	[
 		"/home/doug/git/my-projects/msmusic",
 		"/home/doug/git/my-projects/msmusic/app",
+		"/home/doug/git/my-projects/msmusic/app/assets",
 		"/home/doug/git/my-projects/msmusic/app/modules",
 		"/home/doug/git/my-projects/msmusic/app/partials",
 		"/home/doug/git/my-projects/msmusic/app/styles"
 	],
 	"file_history":
 	[
+		"/home/doug/git/my-projects/msmusic/app/modules/email.php",
+		"/home/doug/git/my-projects/msmusic/app/modules/index.js",
+		"/home/doug/git/my-projects/msmusic/app/partials/contact.html",
+		"/home/doug/git/my-projects/msmusic/app/index.config.js",
+		"/home/doug/git/my-projects/msmusic/README.md",
+		"/home/doug/git/my-projects/msmusic/package.json",
+		"/home/doug/git/my-projects/msmusic/app/controllers/contact.js",
+		"/home/doug/git/my-projects/msmusic/app/index.html",
+		"/home/doug/git/my-projects/msmusic/app/partials/home.html",
+		"/home/doug/git/my-projects/msmusic/.gitignore",
+		"/home/doug/git/my-projects/msmusic/app/styles/styles.css",
+		"/home/doug/git/my-projects/msmusic/app/partials/about.html",
+		"/home/doug/git/my-projects/msmusic/app/styles/material.min.css",
 		"/home/doug/git/msmusic/app/index.html",
 		"/home/doug/git/msmusic/app/assets/images/top-header.jpg",
 		"/home/doug/git/msmusic/app/routes.js",
@@ -429,20 +410,7 @@
 		"/home/doug/git/se-edu/private/questions.json",
 		"/home/doug/Desktop/questions.json",
 		"/home/doug/git/se-edu/public/questions.json",
-		"/home/doug/git/se-edu/public/subjects.json",
-		"/home/doug/git/my-projects/sequestions-server/common/models/se-provas.json",
-		"/home/doug/git/my-projects/sequestions-frontend/quimica.json",
-		"/home/doug/Downloads/espanhol a serem alteradas.txt",
-		"/home/doug/Downloads/-.txt",
-		"/home/doug/Documents/Scripts/backup_questions.sh",
-		"/home/doug/git/my-projects/sequestions-server/common/utils/node-office.js",
-		"/home/doug/git/my-projects/sequestions-server/package.json",
-		"/home/doug/Desktop/youtube-api/init.js",
-		"/home/doug/Desktop/youtube-api/package.js",
-		"/home/doug/git/se-edu/settings.json",
-		"/home/doug/Desktop/Conceitos аcido-base - Conceitos Modernos - 60 questфes.doc",
-		"/home/doug/Desktop/pdf-maker.js",
-		"/home/doug/Documents/Scripts/history.his"
+		"/home/doug/git/se-edu/public/subjects.json"
 	],
 	"find":
 	{
@@ -463,6 +431,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"data",
+			"id",
+			"Contato",
+			"		",
+			"rgb(255,87,34)",
 			"android-be-together-section mdl-typography",
 			"angularRoute",
 			"lib",
@@ -585,12 +558,7 @@
 			".status.",
 			".status",
 			"status.",
-			"status",
-			"nin",
-			"EEAR",
-			"findBy",
-			"console.",
-			"update"
+			"status"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -608,124 +576,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "app/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3420,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3377,
-								3377
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 588.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/modules/index.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 218,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								145,
-								145
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/partials/home.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1702,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								424,
-								424
-							]
-						],
-						"settings":
-						{
-							"auto_name": "home.html",
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "app/styles/styles.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1404,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1330,
-								1330
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 798.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				}
 			]
 		}
 	],
