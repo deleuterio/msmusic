@@ -119,6 +119,36 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "<!doctype html>\n<!--\n  Material Design Lite\n  Copyright 2015 Google Inc. All rights reserved.\n\n  Licensed under the Apache License, Version 2.0 (the \"License\");\n  you may not use this file except in compliance with the License.\n  You may obtain a copy of the License at\n\n      https://www.apache.org/licenses/LICENSE-2.0\n\n  Unless required by applicable law or agreed to in writing, software\n  distributed under the License is distributed on an \"AS IS\" BASIS,\n  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n  See the License for the specific language governing permissions and\n  limitations under the License\n-->\n\n<html lang=\"pt\" ng-app=\"msmusic\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"description\" content=\"Marina Soares portifolio.\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, minimum-scale=1.0\">\n    \n    <title>MSMusicoterapia</title>\n\n    <link rel=\"icon\" href=\"assets/images/logo.png\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"styles/material.min.css\" />\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"styles/styles.css\" />\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\">\n    <!-- <script src=\"index.config.js\"></script> -->\n  </head>\n  <body>\n    <div class=\"mdl-layout mdl-js-layout mdl-layout--fixed-header has-drawer\">\n      <header class=\"mdl-layout__header\">\n        <div class=\"mdl-layout__header-row\">\n          <!-- Title -->\n          <a href=\"#/home\" style=\"color: white; text-decoration:none;\">\n            <span class=\"mdl-layout-title\">\n              <img src=\"assets/images/logo-white.png\" style=\"height: 45px;width: auto;\" alt=\"\">\n              Marina Soares\n            </span>\n          </a>\n          <!-- Add spacer, to align navigation to the right -->\n          <div class=\"mdl-layout-spacer\"></div>\n          <!-- Navigation. We hide it in small screens. -->\n          <nav class=\"mdl-navigation mdl-layout--large-screen-only\">\n            <a class=\"mdl-navigation__link\" href=\"#/home\">Home</a>\n            <a class=\"mdl-navigation__link\" href=\"https://mayfeel.wordpress.com/\">Blog</a>\n            <a class=\"mdl-navigation__link\" href=\"#/sobre\">Sobre</a>\n            <a class=\"mdl-navigation__link\" href=\"#/contato\">Contato</a>\n          </nav>\n        </div>\n      </header>\n      <div class=\"mdl-layout__drawer\">\n        <span class=\"mdl-layout-title\">\n          <img src=\"assets/images/full-logo.jpg\" style=\"height: auto;width: 175px;\" alt=\"\">\n        </span>\n        <nav class=\"mdl-navigation\">\n          <a class=\"mdl-navigation__link\" href=\"#/home\">Home</a>\n          <a class=\"mdl-navigation__link\" href=\"https://mayfeel.wordpress.com/\">Blog</a>\n          <a class=\"mdl-navigation__link\" href=\"#/sobre\">Sobre</a>\n          <a class=\"mdl-navigation__link\" href=\"#/contato\">Contato</a>\n        </nav>\n      </div>\n      <main class=\"mdl-layout__content\">\n        <div ng-view></div>\n        <footer class=\"mdl-mini-footer\">\n        <div class=\"mdl-mini-footer__left-section\">\n            <div class=\"mdl-logo\">Te amamos e fazemos tudo para te deixar feliz Nina!</div>\n        </div>\n        <div class=\"mdl-mini-footer__right-section\">\n            <ul class=\"mdl-mini-footer__link-list\">\n              <li><a href=\"https://mayfeel.wordpress.com/\">Blog</a></li>\n              <li><a href=\"https://www.instagram.com/edir_mazzini/\">Fotos</a></li>\n              <li><a href=\"#/sobre\">Sobre</a></li>\n              <li><a href=\"#/contato\">Contato</a></li>\n            </ul>\n        </div>\n      </footer>\n      </main>\n    </div>\n  </body>\n    <script src=\"libs/angular/angular.min.js\"></script>\n    <script src=\"libs/angular-route/angular-route.min.js\"></script>\n    <script src=\"libs/material-design-lite/material.min.js\"></script>\n    <script src=\"modules/index.js\"></script>\n</html>",
+			"file": "app/index.html",
+			"file_size": 3910,
+			"file_write_time": 131128959597373914,
+			"settings":
+			{
+				"buffer_size": 3915,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 115,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n  \"name\": \"msmusic\",\n  \"private\": true,\n  \"version\": \"0.0.0\",\n  \"description\": \"Marina Soares portifolio.\",\n  \"repository\": \"\",\n  \"license\": \"MIT\",\n  \"devDependencies\": {\n    \"bower\": \"^1.7.7\",\n    \"http-server\": \"^0.9.0\",\n    \"jasmine-core\": \"^2.4.1\",\n    \"karma\": \"^0.13.22\",\n    \"karma-chrome-launcher\": \"^0.2.3\",\n    \"karma-firefox-launcher\": \"^0.1.7\",\n    \"karma-jasmine\": \"^0.3.8\",\n    \"karma-junit-reporter\": \"^0.4.1\",\n    \"protractor\": \"^3.2.2\"\n  },\n  \"scripts\": {\n    \"postinstall\": \"bower install\",\n\n    \"prestart\": \"npm install\",\n    \"start\": \"http-server -p 80 -c-1 ./app &\",\n\n    \"pretest\": \"npm install\",\n    \"test\": \"karma start karma.conf.js\",\n    \"test-single-run\": \"karma start karma.conf.js --single-run\",\n\n    \"preupdate-webdriver\": \"npm install\",\n    \"update-webdriver\": \"webdriver-manager update\",\n\n    \"preprotractor\": \"npm run update-webdriver\",\n    \"protractor\": \"protractor e2e-tests/protractor.conf.js\",\n\n    \"update-index-async\": \"node -e \\\"var fs=require('fs'),indexFile='app/index-async.html',loaderFile='app/bower_components/angular-loader/angular-loader.min.js',loaderText=fs.readFileSync(loaderFile,'utf-8').split(/sourceMappingURL=angular-loader.min.js.map/).join('sourceMappingURL=bower_components/angular-loader/angular-loader.min.js.map'),indexText=fs.readFileSync(indexFile,'utf-8').split(/\\\\/\\\\/@@NG_LOADER_START@@[\\\\s\\\\S]*\\\\/\\\\/@@NG_LOADER_END@@/).join('//@@NG_LOADER_START@@\\\\n'+loaderText+'    //@@NG_LOADER_END@@');fs.writeFileSync(indexFile,indexText);\\\"\"\n  }\n}",
+			"file": "package.json",
+			"file_size": 364,
+			"file_write_time": 131128960596356139,
+			"settings":
+			{
+				"buffer_size": 1507,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -431,6 +461,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"rel=\"stylesheet\"",
 			"data",
 			"id",
 			"Contato",
@@ -557,8 +588,7 @@
 			"status",
 			".status.",
 			".status",
-			"status.",
-			"status"
+			"status."
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -576,8 +606,97 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3673,
+								3673
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1507,
+								1507
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],

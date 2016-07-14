@@ -2,9 +2,9 @@ logs/*
 !.gitkeep
 app/libs
 node_modules/
-bower_components/
 tmp
 .DS_Store
 .idea
 app/index.config.js
+*.sublime-workspace
 *.sublime-project
